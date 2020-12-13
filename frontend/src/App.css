@@ -1,0 +1,20 @@
+.app {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: rgb(249, 240, 255);
+}
+.app > h1 {
+  padding: 30px;
+  color: green;
+}
+.app > input {
+  margin: 20px;
+  border-radius: "50px";
+}
+.app > button {
+  color: red;
+  background-color: "#000066";
+}
